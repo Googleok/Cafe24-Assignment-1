@@ -1,1 +1,1 @@
-<img src='../img/shop-ERD.png' width='100%'>
+<img src='../img/shop-ERD.PNG' width='100%'>
