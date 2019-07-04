@@ -127,3 +127,18 @@ varchar나 text 같은 경우 단순 문자열을 저장하는 type이기때문�
 - 이메일 => 양
 
 - 주소 => 양
+
+<B style="color: red;">암호화할 DataType = BLOB형으로...</B>
+<HR>
+
+### AES 방식
+<img src="../img/AES예시1.PNG">
+
+조사중
+.
+.
+.
+.
+.
+.
+.
