@@ -6,10 +6,10 @@
 
 <hr>
 
-> 01. Shop-usecase-diagram - <a href='./Shop-usecase-diagram/shop-usecase.md'>Shop-Usecase.md</a>
-> 02. Shop-Storyboard -  <a href='./Shop-Storyboard/Shop-Storyboard.md'>Shop-Storyboard.md</a>
-> 03. Shop-ERD-Diagram -  <a href='./Shop-ERD-Diagram/Shop-ERD.md'>Shop-ERD.md</a>
-> 04. Shop-DB-Encryption -  <a href='./Shop-DB-Encryption/db-encryption.md'>db-encryption.md</a>
+> 01. Shop-usecase-diagram - <a href='./shop-week-1/Shop-usecase-diagram/shop-usecase.md'>Shop-Usecase.md</a>
+> 02. Shop-Storyboard -  <a href='./shop-week-1/Shop-Storyboard/Shop-Storyboard.md'>Shop-Storyboard.md</a>
+> 03. Shop-ERD-Diagram -  <a href='./shop-week-1/Shop-ERD-Diagram/Shop-ERD.md'>Shop-ERD.md</a>
+> 04. Shop-DB-Encryption -  <a href='./shop-week-1/Shop-DB-Encryption/db-encryption.md'>db-encryption.md</a>
 
 <hr>
 
